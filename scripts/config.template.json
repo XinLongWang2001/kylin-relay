@@ -1,0 +1,11 @@
+﻿{
+  "targets": {
+    "default": {
+      "host": "192.168.1.7",
+      "ssh_user": "d2000",
+      "ssh_pass": "qilin@123",
+      "port": 12345,
+      "token": "qclaw-relay"
+    }
+  }
+}
