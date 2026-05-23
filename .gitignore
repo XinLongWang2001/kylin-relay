@@ -1,0 +1,7 @@
+build/
+moc_*
+*.o
+*.user
+.DS_Store
+__pycache__/
+*.pyc
